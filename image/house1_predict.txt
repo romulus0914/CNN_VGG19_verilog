@@ -1,0 +1,5 @@
+449: 0.127778583583 n02843684 birdhouse
+717: 0.116833278714 n03930313 picket fence, paling
+572: 0.0796807439779 n03425413 gas pump, gasoline pump, petrol pump, island dispenser
+638: 0.0470021784344 n03710193 mailbox, letter box
+450: 0.0460605552987 n02859443 boathouse

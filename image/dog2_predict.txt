@@ -1,0 +1,5 @@
+274: 0.461189786975 n02115641 dingo, warrigal, warragal, Canis dingo
+264: 0.043378531104 n02113023 Pembroke, Pembroke Welsh corgi
+353: 0.0430794309774 n02422699 impala, Aepyceros melampus
+354: 0.0428037469232 n02423022 gazelle
+177: 0.0311708275717 n02091831 Saluki, gazelle hound

@@ -1,0 +1,5 @@
+353: 0.30501133069 n02422699 impala, Aepyceros melampus
+274: 0.194225902155 n02115641 dingo, warrigal, warragal, Canis dingo
+287: 0.144077871213 n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+354: 0.0851606885806 n02423022 gazelle
+174: 0.0373961562742 n02091244 Ibizan hound, Ibizan Podenco
