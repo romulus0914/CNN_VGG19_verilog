@@ -1,7 +1,14 @@
-# Convolutional Neural Network of VGG19 model in verilog
+# CNN_VGG19_verilog
 
-system architecture : [cliffordwolf/picorv32](https://github.com/cliffordwolf/picorv32)
-CNN    architecture : VGG19 ([imagenet-very-deep-vgg19.mat](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat))
+Convolutional Neural Network of VGG19 model in verilog
+
+## system architecture
+
+[cliffordwolf/picorv32](https://github.com/cliffordwolf/picorv32) - CPU with RISC-V ISA
+
+## CNN architecture
+
+VGG19 ([imagenet-very-deep-vgg19.mat](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)) - pretrained model by imagenet with 19 layers
 
 ## Some useful tools
 
