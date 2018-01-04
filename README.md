@@ -45,7 +45,7 @@ contains some .jpg files and its corresponding .txt and predict files
 ## execution
 
 ```
-    make pcpi
+make pcpi
 ```
 
 ## p.s it's not actually a trainable model, just a reconstruction of vgg19 to input an image and get its prediction.
