@@ -16,7 +16,7 @@ tools written by myself that will help a lot
 
 ### vgg19.py
 
-analyize imagenet-very-deep-vgg19.mat(need to download by yourself) and output to vgg19_weight/bias.txt
+analyze imagenet-very-deep-vgg19.mat(need to download by yourself) and output to vgg19_weight/bias.txt
 
 ```
 make vgg
@@ -40,7 +40,7 @@ make softmax
 
 ## image folder        
 
-contains some .jpg files and its corresponding .txt and predict files
+contain some .jpg files and its corresponding .txt and predict files
 
 ## execution
 
@@ -48,4 +48,4 @@ contains some .jpg files and its corresponding .txt and predict files
 make pcpi
 ```
 
-## p.s it's not actually a trainable model, just a reconstruction of vgg19 to input an image and get its prediction.
+### p.s it's not actually a trainable model, just a reconstruction of vgg19 to input an image and get its prediction.
